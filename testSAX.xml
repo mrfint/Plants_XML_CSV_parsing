@@ -1,0 +1,7 @@
+<document>
+<Tree><id>1</id><name>Dub</name><location>Ukraine</location><age>50.0</age><hightMax>60.5</hightMax><diametrMax>2.0</diametrMax><type>Leafy</type><region>Center</region><note>cool</note></Tree>
+<Flower><id>0</id><name>Rose</name><location>Ukraine</location><color>red</color><structure>purpose</structure><qpetal>12</qpetal><spike>true</spike><temperature>30.0</temperature></Flower>
+<Flower><id>2</id><name>Tulpan</name><location>Goland</location><color>dark</color><structure>strict</structure><qpetal>8</qpetal><spike>false</spike><temperature>25.0</temperature></Flower>
+<Flower><id>3</id><name>Rose2</name><location>Ukraine</location><color>red</color><structure>purpose</structure><qpetal>15</qpetal><spike>true</spike><temperature>20.0</temperature></Flower>
+<Tree><id>4</id><name>Dub434</name><location>Ukraine</location><age>50.0</age><hightMax>60.5</hightMax><diametrMax>2.0</diametrMax><type>Leafy</type><region>Center</region><note>bron</note></Tree>
+</document>

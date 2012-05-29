@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_01" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="plant.Tree">
+    <void property="age">
+     <float>50.0</float>
+    </void>
+    <void property="diametrMax">
+     <float>2.0</float>
+    </void>
+    <void property="hightMax">
+     <float>60.5</float>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="location">
+     <string>Ukraine</string>
+    </void>
+    <void property="name">
+     <string>Dub</string>
+    </void>
+    <void property="note">
+     <string>cool</string>
+    </void>
+    <void property="region">
+     <string>Center</string>
+    </void>
+    <void property="type">
+     <string>Leafy</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="plant.Flower">
+    <void property="color">
+     <string>red</string>
+    </void>
+    <void property="location">
+     <string>Ukraine</string>
+    </void>
+    <void property="name">
+     <string>Rose</string>
+    </void>
+    <void property="qPetal">
+     <int>12</int>
+    </void>
+    <void property="spike">
+     <boolean>true</boolean>
+    </void>
+    <void property="structure">
+     <string>purpose</string>
+    </void>
+    <void property="temperature">
+     <float>30.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="plant.Flower">
+    <void property="color">
+     <string>dark</string>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="location">
+     <string>Goland</string>
+    </void>
+    <void property="name">
+     <string>Tulpan</string>
+    </void>
+    <void property="qPetal">
+     <int>8</int>
+    </void>
+    <void property="structure">
+     <string>strict</string>
+    </void>
+    <void property="temperature">
+     <float>25.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="plant.Flower">
+    <void property="color">
+     <string>red</string>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="location">
+     <string>Ukraine</string>
+    </void>
+    <void property="name">
+     <string>Rose2</string>
+    </void>
+    <void property="qPetal">
+     <int>15</int>
+    </void>
+    <void property="spike">
+     <boolean>true</boolean>
+    </void>
+    <void property="structure">
+     <string>purpose</string>
+    </void>
+    <void property="temperature">
+     <float>20.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="plant.Tree">
+    <void property="age">
+     <float>50.0</float>
+    </void>
+    <void property="diametrMax">
+     <float>2.0</float>
+    </void>
+    <void property="hightMax">
+     <float>60.5</float>
+    </void>
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="location">
+     <string>Ukraine</string>
+    </void>
+    <void property="name">
+     <string>Dub434</string>
+    </void>
+    <void property="note">
+     <string>bron</string>
+    </void>
+    <void property="region">
+     <string>Center</string>
+    </void>
+    <void property="type">
+     <string>Leafy</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

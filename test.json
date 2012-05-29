@@ -1,0 +1,5 @@
+{"Tree": {"id":"1","name":"Dub","location":"Ukraine","age":"50.0","hightMax":"60.5","diametrMax":"2.0","type":"Leafy","region":"Center","note":"cool"}
+{"Flower": {"id":"0","name":"Rose","location":"Ukraine","color":"red","structure":"purpose","qpetal":"12","spike":"true","temperature":"30.0"}}
+{"Flower": {"id":"2","name":"Tulpan","location":"Goland","color":"dark","structure":"strict","qpetal":"8","spike":"false","temperature":"25.0"}}
+{"Flower": {"id":"3","name":"Rose2","location":"Ukraine","color":"red","structure":"purpose","qpetal":"15","spike":"true","temperature":"20.0"}}
+{"Tree": {"id":"4","name":"Dub434","location":"Ukraine","age":"50.0","hightMax":"60.5","diametrMax":"2.0","type":"Leafy","region":"Center","note":"bron"}
